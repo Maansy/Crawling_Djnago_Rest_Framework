@@ -1,0 +1,8 @@
+1- install django, psycopy2, django-rest-framework.
+2- create a database in postgresql.
+3- create a django project.
+4- create a django app.
+5- .env file.
+6- edit in settings.py file.
+7- create an articel model.
+8- create a serializer.
